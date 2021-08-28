@@ -1,5 +1,5 @@
 # amanrdp
-HEY GUYZZZ 
+free rdp
 
 First Of All go to secrets 
 
